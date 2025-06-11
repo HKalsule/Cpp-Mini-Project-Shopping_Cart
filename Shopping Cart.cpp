@@ -1,5 +1,3 @@
-//Arya Dhole ENTC-A2 22070123027
-
 #include <iostream>
 #include <string>
 using namespace std;
